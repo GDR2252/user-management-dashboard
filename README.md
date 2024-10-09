@@ -86,3 +86,9 @@ TypeScript: A strongly typed programming language that builds on JavaScript.
 Axios: A promise-based HTTP client for the browser and Node.js, used for API requests.
 Material-UI (MUI): A popular React UI framework for building responsive, accessible, and elegant designs.
 CSS/SCSS: For styling the application and making it mobile-responsive.
+
+
+
+Also check Video of Development using this Link
+
+https://drive.google.com/drive/folders/1rxN8LnvDiWIFPfYkl_42RumvW6EPXF7-?usp=sharing
